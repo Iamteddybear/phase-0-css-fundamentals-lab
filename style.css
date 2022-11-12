@@ -3,3 +3,57 @@ body {
   height: 100%;
   margin: 0;
 }
+header{
+  text-align: center;
+}
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+a{
+  padding-left: 10px;
+  padding-right: 10px;
+  color: rgba(20, 35, 251, 0.518);
+  background-color: red
+}
+ figcaption {
+  font-size:medium;
+  text-align: center;
+ }
+ #featured-property > p {
+ text-align: center;
+ width: 800px;
+ margin: auto;
+ margin-bottom: 20px;
+ }
+ #details{
+  background-color: red;
+  display: inline;
+ }
+#one {
+ float:left; 
+ background:Red;
+ width:25%;
+ height:150px;
+}
+#two {
+  float:left; 
+  background:Red;
+  width:25%;
+  height:150px;
+}
+#three {
+  float:left; 
+ background:Red;
+ width:25%;
+ height:150px;
+}
+#four {
+  float:left; 
+ background:Red;
+ width:25%;
+ height:150px;
+}
+
